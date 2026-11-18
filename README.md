@@ -73,6 +73,7 @@ client.close()
 ## OUPUT
 
 client.py:
+
 <img width="826" height="226" alt="image" src="https://github.com/user-attachments/assets/8b7be62e-8b8e-46b4-b9a8-7adba5b4cb7a" />
 
 
